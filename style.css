@@ -50,3 +50,12 @@ body{
     margin: 6px;
     text-align: center;
 }
+.class4{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 3px solid black;
+    padding: 6px;
+    margin: 6px;
+    text-align: center;
+}
